@@ -19,10 +19,11 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 
 # Customer Personality Analysis
+**Code:**[Customer_Personality_Analysis.ipynb---](https://github.com/FarzanaShahdn/customer-personality-analysis/blob/main/Customer_Personality_Analysis.ipynb)
+
 ## 📋 Project Overview
 This project analyzes customer data from a marketing campaign to uncover key insights about customer behavior, product revenue, and the effectiveness of marketing campaigns. The goal is to turn data into actionable recommendations that drive business results.
 
----
 
 ## 🎯 Goal
 To analyze marketing campaign data, identify the most profitable products and customer segments, evaluate marketing campaign effectiveness, and recommend strategies for maximizing sales and campaign impact.
