@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics briefly describing the technology stack used to solve cases.
 
-### Netflix Movies & TV Shows Data Anlaysis
+### Netflix Movies & TV Shows Data Analysis
 **Code:** [[Netflix_Movies_&_TV_Shows.ipynb---]](https://github.com/FarzanaShahdn/Data-Analysis-Portfolio-/blob/main/Netflix_Movies_%26_TV_Shows.ipynb)
 
 **Project Overview**: This project analyzes the Netflix Movies & TV Shows dataset to uncover trends in content types, country production, 18+ content, and release patterns over the years.
