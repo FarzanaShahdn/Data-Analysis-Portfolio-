@@ -44,6 +44,7 @@ In this section I will list data analytics briefly describing the technology sta
 **Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib),Google Colabs.
 
 **Customer Personality Analysis**
+
 **Code:** [Customer_Personality_Analysis.ipynb---](https://github.com/FarzanaShahdn/customer-personality-analysis/blob/main/Customer_Personality_Analysis.ipynb)
 
 **Project Overview** :This project analyzes customer data from a marketing campaign to uncover key insights about customer behavior, product revenue, and the effectiveness of marketing campaigns. The goal is to turn data into actionable recommendations that drive business results.
