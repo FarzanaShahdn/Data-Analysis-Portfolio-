@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics briefly describing the technology stack used to solve cases.
 
 ### Netflix Movies & TV Shows Data Anlaysis
-**Code:** [Netflix_Movies_&_TV_Shows.ipynb---][(https://github.com/FarzanaShahdn/Data-Analysis-Portfolio-/blob/main/Netflix_Movies_%26_TV_Shows.ipynb)]]
+**Code:** [Netflix_Movies_&_TV_Shows.ipynb---][([https://github.com/FarzanaShahdn/Data-Analysis-Portfolio-/blob/main/Netflix_Movies_%26_TV_Shows.ipynb)](https://github.com/FarzanaShahdn/Data-Analysis-Portfolio-/blob/main/Netflix_Movies_%26_TV_Shows.ipynb)]]
 [Netflix Banner]![Netflix Image Apr 30, 2025, 01_21_30 AM](https://github.com/user-attachments/assets/7aad8d64-3d73-43e8-8aa7-d62de0d55141)
 
 
