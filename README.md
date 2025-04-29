@@ -1,4 +1,4 @@
-  # Farzana Binti Shahdon - Data Analyst Portfolio
+# Farzana Binti Shahdon - Data Analyst Portfolio
 ## About
 Hello! I’m Farzana Binti Shahdon, a detail-oriented Data Analyst based in Johor Bahru, Malaysia. I specialize in transforming raw data into actionable business insights using tools like Python, Excel, and Tableau. My passion lies in uncovering patterns and trends that drive strategic decision-making.
 
@@ -17,14 +17,12 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics briefly describing the technology stack used to solve cases.
 
 ### Netflix Movies & TV Shows Data Anlaysis
+
 **Code:** [[Netflix_Movies_&_TV_Shows.ipynb---]](https://github.com/FarzanaShahdn/Data-Analysis-Portfolio-/blob/main/Netflix_Movies_%26_TV_Shows.ipynb)
 
-[Netflix Banner]![Netflix Image Apr 30, 2025, 01_21_30 AM](https://github.com/user-attachments/assets/7aad8d64-3d73-43e8-8aa7-d62de0d55141)
+**Project Overview**: This project analyzes the Netflix Movies & TV Shows dataset to uncover trends in content types, country production, 18+ content, and release patterns over the years.
 
-## Project Overview
-This project analyzes the Netflix Movies & TV Shows dataset to uncover trends in content types, country production, 18+ content, and release patterns over the years.
-
-## Analysis Summary
+**Analysis Summary**
 1) **Movies vs TV Shows**
 - Netflix hosts significantly more **Movies** (~6,131) than **TV Shows** (~2,676).
 - **Movies** represent the majority of Netflix's content strategy.
@@ -46,27 +44,24 @@ This project analyzes the Netflix Movies & TV Shows dataset to uncover trends in
 
 -**Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib),Google Colabs.
 
-
-# Customer Personality Analysis
+**Customer Personality Analysis**
 **Code:** [Customer_Personality_Analysis.ipynb---](https://github.com/FarzanaShahdn/customer-personality-analysis/blob/main/Customer_Personality_Analysis.ipynb)
 
-## Project Overview
-This project analyzes customer data from a marketing campaign to uncover key insights about customer behavior, product revenue, and the effectiveness of marketing campaigns. The goal is to turn data into actionable recommendations that drive business results.
+**Project Overview** :This project analyzes customer data from a marketing campaign to uncover key insights about customer behavior, product revenue, and the effectiveness of marketing campaigns. The goal is to turn data into actionable recommendations that drive business results.
 
-## Goal
-To analyze marketing campaign data, identify the most profitable products and customer segments, evaluate marketing campaign effectiveness, and recommend strategies for maximizing sales and campaign impact.
+**Goal** :To analyze marketing campaign data, identify the most profitable products and customer segments, evaluate marketing campaign effectiveness, and recommend strategies for maximizing sales and campaign impact.
 
-## Dataset Overview
+**Dataset Overview**
 - **Source:** marketing_campaign.csv
 - **Records:** 2,216 customers
 - **Features:** Demographics, product spending, and marketing campaign responses
 
-## Business Questions
+**Business Questions**
 1. Which product categories generate the most revenue?
 2. What are the demographics (age, income) of customers who respond to campaigns?
 3. Which marketing campaigns are most effective?
 
-## Skills Demonstrated
+**Skills Demonstrated**
 - Data Cleaning & Preparation (handling missing values, feature engineering)
 - Exploratory Data Analysis (EDA)
 - Data Visualization (using Matplotlib, Seaborn)
@@ -76,16 +71,16 @@ To analyze marketing campaign data, identify the most profitable products and cu
 
 -**Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy),Google Colabs.
 
-## Analysis Summary
+**Analysis Summary**
 - **Wine and Meat Products** generate the highest revenue, with wine accounting for over 50% of total sales.
 - **Responders to marketing campaigns** are slightly older (average age 55.8) than non-responders, but both groups have similar incomes.
 - **Marketing Campaigns 3, 4, and 5** achieved the highest acceptance rates among customers, making them the most effective.
 
-- **Recommendations:**  
+**Recommendations:**  
   - Prioritize wine and meat product promotions, focusing on customers aged 55 and above.  
   - Replicate the successful strategies used in Campaigns 3, 4, and 5 to maximize future campaign effectiveness.
 
-## Next Steps
+**Next Steps**
 - Perform customer segmentation using clustering techniques
 - Build predictive models for campaign response
 - Develop a dashboard for ongoing business monitoring
