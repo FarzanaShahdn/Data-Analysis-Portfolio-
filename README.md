@@ -1,4 +1,4 @@
-# Farzana Binti Shahdon - Data Analyst Portfolio
+# FarzanaShahdn - Data Analyst Portfolio
 ## About
 Hello! I’m Farzana Binti Shahdon, a detail-oriented Data Analyst based in Johor Bahru, Malaysia. I specialize in transforming raw data into actionable business insights using tools like Python, Excel, and Tableau. My passion lies in uncovering patterns and trends that drive strategic decision-making.
 
