@@ -57,8 +57,9 @@ To analyze marketing campaign data, identify the most profitable products and cu
 - Develop a dashboard for ongoing business monitoring
 
 ### Netflix Movies & TV Shows Data Anlaysis
-**Code:**
-![Netflix Banner](https://yourimageurl.com/banner.png)
+**Code:** 
+
+![Netflix Banner][(![Netflix Image Apr 30, 2025, 01_21_30 AM](https://github.com/user-attachments/assets/d2ba1c8c-ddd8-4605-9759-1baa35614dae)]
 
 ## 📋 Project Overview
 This project analyzes the Netflix Movies & TV Shows dataset to uncover trends in content types, country production, 18+ content, and release patterns over the years.
@@ -84,9 +85,6 @@ This project analyzes the Netflix Movies & TV Shows dataset to uncover trends in
 - A slight drop was observed post-2023, likely due to the **Covid-19 pandemic**
 
 -**Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib),Google Colabs.
-
-![Netflix Banner](https://yourimageurl.com/banner.png)
-
 
 ## 📬 Contact
 **Farzana Binti Shahdon**  
