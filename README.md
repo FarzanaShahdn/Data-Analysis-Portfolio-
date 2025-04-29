@@ -7,11 +7,11 @@ I thrive on solving real-world problems through data analysis and am committed t
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About]
+- [About](about)
 - [Portfolio Projects]
-        ####[Phyton]
-        -#### [Netflix Movies & TV Shows Data Analysis](#netflix-movies-&-tv-shows-data-analysis)
-        -#### [Customer Personality Analysis](#customer-personality-analysis)
+          - [Phyton]
+                  - [Netflix Movies & TV Shows Data Analysis](#netflix-movies-&-tv-shows-data-analysis
+                  - [Customer Personality Analysis](#customer-personality-analysis)
 
 ## Portfolio Projects
 In this section I will list data analytics briefly describing the technology stack used to solve cases.
