@@ -7,7 +7,7 @@ I thrive on solving real-world problems through data analysis and am committed t
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About]([(https://github.com/FarzanaShahdn/customer-personality-analysis/edit/main/README.md)]
+- [About]
 - [Portfolio Projects] 
 
 ## Portfolio Projects
