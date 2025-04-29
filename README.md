@@ -17,7 +17,6 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics briefly describing the technology stack used to solve cases.
 
 ### Netflix Movies & TV Shows Data Anlaysis
-
 **Code:** [[Netflix_Movies_&_TV_Shows.ipynb---]](https://github.com/FarzanaShahdn/Data-Analysis-Portfolio-/blob/main/Netflix_Movies_%26_TV_Shows.ipynb)
 
 **Project Overview**: This project analyzes the Netflix Movies & TV Shows dataset to uncover trends in content types, country production, 18+ content, and release patterns over the years.
@@ -42,7 +41,7 @@ In this section I will list data analytics briefly describing the technology sta
 - Significant growth began after **2010**, peaking around **2019-2020**.
 - A slight drop was observed post-2023, likely due to the **Covid-19 pandemic**
 
--**Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib),Google Colabs.
+**Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib),Google Colabs.
 
 **Customer Personality Analysis**
 **Code:** [Customer_Personality_Analysis.ipynb---](https://github.com/FarzanaShahdn/customer-personality-analysis/blob/main/Customer_Personality_Analysis.ipynb)
@@ -69,7 +68,7 @@ In this section I will list data analytics briefly describing the technology sta
 - Statistical Analysis & Group Comparisons
 - Report Writing & Documentation
 
--**Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy),Google Colabs.
+**Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy),Google Colabs.
 
 **Analysis Summary**
 - **Wine and Meat Products** generate the highest revenue, with wine accounting for over 50% of total sales.
