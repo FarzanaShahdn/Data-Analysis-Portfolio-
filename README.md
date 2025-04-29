@@ -12,6 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Phyton]
     - [Netflix Movies & TV Shows Data Analysis](#netflix-movies-&-tv-shows-data-analysis)
     - [Customer Personality Analysis](#customer-personality-analysis)
+- [Contact](contact)
 
 ## Portfolio Projects
 In this section I will list data analytics briefly describing the technology stack used to solve cases.
