@@ -9,8 +9,9 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About]
 - [Portfolio Projects]
-      - Phyton
+      - [Phyton]
          - [Netflix Movies & TV Shows Data Analysis](#netflix-movies-&-tv-shows-data-analysis)
+  
          - [Customer Personality Analysis](#customer-personality-analysis)
 
 ## Portfolio Projects
