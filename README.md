@@ -13,6 +13,38 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics briefly describing the technology stack used to solve cases.
 
+### Netflix Movies & TV Shows Data Anlaysis
+**Code:** 
+
+[Netflix Banner]![Netflix Image Apr 30, 2025, 01_21_30 AM](https://github.com/user-attachments/assets/7aad8d64-3d73-43e8-8aa7-d62de0d55141)
+
+
+## 📋 Project Overview
+This project analyzes the Netflix Movies & TV Shows dataset to uncover trends in content types, country production, 18+ content, and release patterns over the years.
+
+## 📊 Analysis Summary
+1) **Movies vs TV Shows**
+- Netflix hosts significantly more **Movies** (~6,131) than **TV Shows** (~2,676).
+- **Movies** represent the majority of Netflix's content strategy.
+
+2) **Top 10 Countries Producing the Most Content**
+- **United States** leads content production with almost **3,000 titles**.
+- Followed by **India, United Kingdom, Japan, and South Korea.**
+-Netflix shows a strong focus on **North America and Asia**, with growing international diversity.
+
+3) **Adult(18+) Content**
+- There are about **4,009** adult-rated (18+) titles on Netflix.
+- The **United States** dominates 18+ movie production (~1,400 titles).
+- Other major contributors include **United Kingdom, India, France, and Canada.**
+  
+4) **Content Releases Over the Years**
+- Netflix had very few releases before **2000.**
+- Significant growth began after **2010**, peaking around **2019-2020**.
+- A slight drop was observed post-2023, likely due to the **Covid-19 pandemic**
+
+-**Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib),Google Colabs.
+
+
 # Customer Personality Analysis
 **Code:** [Customer_Personality_Analysis.ipynb---](https://github.com/FarzanaShahdn/customer-personality-analysis/blob/main/Customer_Personality_Analysis.ipynb)
 
@@ -55,38 +87,6 @@ To analyze marketing campaign data, identify the most profitable products and cu
 - Perform customer segmentation using clustering techniques
 - Build predictive models for campaign response
 - Develop a dashboard for ongoing business monitoring
-
-### Netflix Movies & TV Shows Data Anlaysis
-**Code:** 
-
-[Netflix Banner]![Netflix Image Apr 30, 2025, 01_21_30 AM](https://github.com/user-attachments/assets/7aad8d64-3d73-43e8-8aa7-d62de0d55141)
-
-
-## 📋 Project Overview
-This project analyzes the Netflix Movies & TV Shows dataset to uncover trends in content types, country production, 18+ content, and release patterns over the years.
-
-## 📊 Analysis Summary
-1) **Movies vs TV Shows**
-- Netflix hosts significantly more **Movies** (~6,131) than **TV Shows** (~2,676).
-- **Movies** represent the majority of Netflix's content strategy.
-
-2) **Top 10 Countries Producing the Most Content**
-- **United States** leads content production with almost **3,000 titles**.
-- Followed by **India, United Kingdom, Japan, and South Korea.**
--Netflix shows a strong focus on **North America and Asia**, with growing international diversity.
-
-3) **Adult(18+) Content**
-- There are about **4,009** adult-rated (18+) titles on Netflix.
-- The **United States** dominates 18+ movie production (~1,400 titles).
-- Other major contributors include **United Kingdom, India, France, and Canada.**
-  
-4) **Content Releases Over the Years**
-- Netflix had very few releases before **2000.**
-- Significant growth began after **2010**, peaking around **2019-2020**.
-- A slight drop was observed post-2023, likely due to the **Covid-19 pandemic**
-
--**Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib),Google Colabs.
-
 ## 📬 Contact
 **Farzana Binti Shahdon**  
 [farzana.shahdn@gmail.com](mailto:farzana.shahdn@gmail.com)  
