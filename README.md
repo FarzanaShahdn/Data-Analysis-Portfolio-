@@ -43,7 +43,7 @@ In this section I will list data analytics briefly describing the technology sta
 
 **Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib),Google Colabs.
 
-**Customer Personality Analysis**
+### Customer Personality Analysis
 
 **Code:** [Customer_Personality_Analysis.ipynb---](https://github.com/FarzanaShahdn/customer-personality-analysis/blob/main/Customer_Personality_Analysis.ipynb)
 
