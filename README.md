@@ -64,21 +64,21 @@ To analyze marketing campaign data, identify the most profitable products and cu
 This project analyzes the Netflix Movies & TV Shows dataset to uncover trends in content types, country production, 18+ content, and release patterns over the years.
 
 ## 📊 Analysis Summary
-- 1) **Movies vs TV Shows**
+1) **Movies vs TV Shows**
 - Netflix hosts significantly more **Movies** (~6,131) than **TV Shows** (~2,676).
 - **Movies** represent the majority of Netflix's content strategy.
 
--2) **Top 10 Countries Producing the Most Content**
+2) **Top 10 Countries Producing the Most Content**
 - **United States** leads content production with almost **3,000 titles**.
 - Followed by **India, United Kingdom, Japan, and South Korea.**
 -Netflix shows a strong focus on **North America and Asia**, with growing international diversity.
 
--3) **Adult(18+) Content**
+3) **Adult(18+) Content**
 - There are about **4,009** adult-rated (18+) titles on Netflix.
 - The **United States** dominates 18+ movie production (~1,400 titles).
 - Other major contributors include **United Kingdom, India, France, and Canada.**
   
-- 4) **Content Releases Over the Years**
+4) **Content Releases Over the Years**
 - Netflix had very few releases before **2000.**
 - Significant growth began after **2010**, peaking around **2019-2020**.
 - A slight drop was observed post-2023, likely due to the **Covid-19 pandemic**
