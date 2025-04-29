@@ -8,7 +8,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About]([(https://github.com/FarzanaShahdn/customer-personality-analysis/edit/main/README.md)]
-- [Portfolio Projects] ([https://github.com/FarzanaShahdn/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)]
+- [Portfolio Projects] 
 
 ## Portfolio Projects
 In this section I will list data analytics briefly describing the technology stack used to solve cases.
