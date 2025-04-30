@@ -89,7 +89,7 @@ In this section I will list data analytics briefly describing the technology sta
 ## 📬 Contact
 **Farzana Binti Shahdon**  
 [farzana.shahdn@gmail.com](mailto:farzana.shahdn@gmail.com)  
-[LinkedIn: farzana-shahdn](www.linkedin.com/in/farzana-shahdn)
+[LinkedIn: farzana-shahdn]([www.linkedin.com/in/farzana-shahdn](https://www.linkedin.com/in/farzana-shahdn/))
 
 ---
 
