@@ -81,11 +81,6 @@ In this section I will list data analytics briefly describing the technology sta
   - Prioritize wine and meat product promotions, focusing on customers aged 55 and above.  
   - Replicate the successful strategies used in Campaigns 3, 4, and 5 to maximize future campaign effectiveness.
 
-**Next Steps**
-- Perform customer segmentation using clustering techniques
-- Build predictive models for campaign response
-- Develop a dashboard for ongoing business monitoring
-
 ## 📬 Contact
 **Farzana Binti Shahdon**  
 [farzana.shahdn@gmail.com](mailto:farzana.shahdn@gmail.com)  
