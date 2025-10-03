@@ -44,10 +44,9 @@ In this section I will list data analytics briefly describing the technology sta
 
 **Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib),Google Colabs.
 
-### Customer Personality Analysis
+### Customer Personality Analysis:Data-Driven Strategies for Marketing Optimization and Revenue Growth
 
-**Code:** [Customer_Personality_Analysis.ipynb---]([https://github.com/FarzanaShahdn/customer-personality-analysis/blob/main/Customer_Personality_Analysis.ipynb](https://github.com/FarzanaShahdn/Data-Analysis-Portfolio-/blob/main/Customer_Personality_Analysis_Data_Driven_Strategies_for_Marketing_Optimization_and_Revenue_Growth.ipynb))
-
+**Code:** [Customer_Personality_Analysis.ipynb---](
 **Project Overview** :This project analyzes customer data from a marketing campaign to uncover key insights about customer behavior, product revenue, and the effectiveness of marketing campaigns. The goal is to turn data into actionable recommendations that drive business results.
 
 **Goal** :To analyze marketing campaign data, identify the most profitable products and customer segments, evaluate marketing campaign effectiveness, and recommend strategies for maximizing sales and campaign impact.
@@ -68,9 +67,8 @@ In this section I will list data analytics briefly describing the technology sta
 
 **Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy),Google Colabs.
 
-# ===============================================
-# 📈 COMPREHENSIVE ANALYSIS SUMMARY & RECOMMENDATIONS
-# ===============================================
+
+## 📈 COMPREHENSIVE ANALYSIS SUMMARY & RECOMMENDATION
 
 
 ## 📝 Executive Summary
@@ -97,12 +95,6 @@ In this section I will list data analytics briefly describing the technology sta
    - Scale successful elements from Campaigns 3/4/5.  
    - Reallocate budget: Cmp3/4/5 (70%), Cmp1 (25%), Cmp2 (5%).  
    - Apply **A/B testing** to validate future campaigns.  
-
-4. **Acquisition & Retention**  
-   - Target acquisition toward profiles similar to Champions  
-     (Age ≈ {df_clean[df_clean['Customer_Segment']=="Champions"]["Age"].mean():.1f},  
-      Income ≈ ${df_clean[df_clean['Customer_Segment']=="Champions"]["Income"].mean():,.0f}).  
-   - Personalize communication by segment & purchase history.  
 
 ## 💰 Expected Business Impact
 
