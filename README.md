@@ -94,7 +94,7 @@ In this section I will list data analytics briefly describing the technology sta
    - Reallocate budget: Cmp3/4/5 (70%), Cmp1 (25%), Cmp2 (5%).  
    - Apply **A/B testing** to validate future campaigns.  
 
-##Expected Business Impact
+## Expected Business Impact
 
 - **Short-term (3-6 months):** 15–20% uplift in campaign ROI  
 - **Medium-term (6-12 months):** 25–30% increase in customer lifetime value  
