@@ -44,74 +44,50 @@ In this section I will list data analytics briefly describing the technology sta
 
 **Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib),Google Colabs.
 
-### Customer Personality Analysis:Data-Driven Strategies for Marketing Optimization and Revenue Growth
+# 📊 Customer Personality & Marketing Campaign Analysis
 
+### Turning Customer Data into Business Strategy
+
+---
 **Code:** [Customer_Personality_Analysis.ipynb---]([
 ][(https://github.com/FarzanaShahdn/Data-Analysis-Portfolio-/blob/main/Customer_Personality_Analysis_Data_Driven_Strategies_for_Marketing_Optimization_and_Revenue_Growth%20(2).ipynb)]
 
-**Project Overview** :This project analyzes customer data from a marketing campaign to uncover key insights about customer behavior, product revenue, and the effectiveness of marketing campaigns. The goal is to turn data into actionable recommendations that drive business results.
+## 🚀 Project Summary
+This project analyzes the **Customer Personality dataset** to uncover insights on:
+- 👥 **Customer Segmentation**
+- 🍷 **Product Performance**
+- 🎯 **Campaign Effectiveness**
+- 🔗 **Correlation of demographics & spending**
 
-**Goal** :To analyze marketing campaign data, identify the most profitable products and customer segments, evaluate marketing campaign effectiveness, and recommend strategies for maximizing sales and campaign impact.
-
-**Dataset Overview**
-- **Source:** marketing_campaign.csv
-- **Records:** 2,216 customers
-- **Features:** Demographics, product spending, and marketing campaign responses
-
-
-**Skills Demonstrated**
-- Data Cleaning & Preparation (handling missing values, feature engineering)
-- Exploratory Data Analysis (EDA)
-- Data Visualization (using Matplotlib, Seaborn)
-- Business Analysis & Insight Communication
-- Statistical Analysis & Group Comparisons
-- Report Writing & Documentation
-
-**Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy),Google Colabs.
-
-##Comprehensive Analysis Summary & Recommendation
-
-##Executive Summary
-
-- 🍷 **Product Dominance**: Wine & Meat drive **77.8%** of total revenue → prioritize promotions.  
-- 👥 **Customer Segments**: Champions are the most profitable group; loyalty & exclusivity programs recommended.  
-- 📊 **Campaign Effectiveness**: Campaigns **3, 4, 5** significantly outperform Campaign 2 → replicate their design.  
-- 💡 **Revenue Drivers**: Strong correlation between **Income & Spending**, and between **Purchases & Total Revenue**.  
-- 🎯 **Response Patterns**: Responders tend to be **established, higher-spending customers**.  
-
-## Strategic Recommendations
-
-1. **Product Focus**  
-   - Allocate ~70% marketing budget to Wine & Meat.  
-   - Create premium bundles & cross-sell with complementary products.  
-
-2. **Customer Strategy**  
-   - **Champions**: Exclusive loyalty programs, early access.  
-   - **Loyal Customers**: Upsell & referral incentives.  
-   - **Opportunity**: Reactivation campaigns using Campaign 3/4/5 playbook.  
-   - **Non-Responders**: Test new channels, value-driven offers.  
-
-3. **Campaign Optimization**  
-   - Scale successful elements from Campaigns 3/4/5.  
-   - Reallocate budget: Cmp3/4/5 (70%), Cmp1 (25%), Cmp2 (5%).  
-   - Apply **A/B testing** to validate future campaigns.  
-
-## Expected Business Impact
-
-- **Short-term (3-6 months):** 15–20% uplift in campaign ROI  
-- **Medium-term (6-12 months):** 25–30% increase in customer lifetime value  
-- **Long-term (12+ months):** Sustainable growth through data-driven optimization  
+Goal: Show how **data analytics drives smarter marketing decisions**.
 
 ---
-📌 *This section concludes the analysis and can serve as the "Executive Report" for business presentation.*
-""")
 
+## 📈 Key Insights
+- 🍷 **Wines & Meat** → ~78% of revenue (focus categories).  
+- 👥 **Champions** = highest-value customers (loyal & profitable).  
+- 🎯 Campaigns **3/4/5** outperform Campaign 2 (better ROI).  
+- 🔗 **Purchases** drive spending more than income (frequency > wealth).  
 
+---
+
+## 🛠️ Tools Used
+- Python (Google Colab)  
+- Pandas / NumPy (data cleaning)  
+- Seaborn / Matplotlib (visuals)  
+
+---
+
+## 📑 Deliverables
+- 📄 [Full Report (PDF)](./report.pdf)  
+- 💻 [Colab Notebook](./notebook.ipynb)  
+- 📊 [Key Metrics CSV](./analysis_summary.csv)  
+
+---
 ## 📬 Contact
 **Farzana Binti Shahdon**  
 [farzana.shahdn@gmail.com](mailto:farzana.shahdn@gmail.com)  
 [LinkedIn: farzana-shahdn]([www.linkedin.com/in/farzana-shahdn](https://www.linkedin.com/in/farzana-shahdn/))
-
 ---
 
 > _Thank you for viewing my project! Feedback and collaboration are welcome._
