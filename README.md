@@ -57,10 +57,6 @@ In this section I will list data analytics briefly describing the technology sta
 - **Records:** 2,216 customers
 - **Features:** Demographics, product spending, and marketing campaign responses
 
-**Business Questions**
-1. Which product categories generate the most revenue?
-2. What are the demographics (age, income) of customers who respond to campaigns?
-3. Which marketing campaigns are most effective?
 
 **Skills Demonstrated**
 - Data Cleaning & Preparation (handling missing values, feature engineering)
@@ -77,13 +73,7 @@ In this section I will list data analytics briefly describing the technology sta
 # ===============================================
 
 print("🎯 COMPREHENSIVE ANALYSIS SUMMARY & STRATEGIC RECOMMENDATIONS")
-print("="*70)
 
-# Key metrics
-total_revenue = df_clean['Total_Spent'].sum()
-avg_revenue_per_customer = df_clean['Total_Spent'].mean()
-response_rate = df_clean['Campaign_Responder'].mean() * 100
-champion_segment_size = (df_clean['Customer_Segment'] == 'Champions').mean() * 100
 
 print("\n📊 EXECUTIVE DASHBOARD:")
 print(f"• Total Revenue Analyzed: ${total_revenue:,.0f}")
@@ -92,8 +82,7 @@ print(f"• Overall Campaign Response Rate: {response_rate:.1f}%")
 print(f"• Champion Segment Size: {champion_segment_size:.1f}% of customers")
 print(f"• Wine Category Contribution: {product_percent['MntWines']:.1f}% of total revenue")
 
-# --- Markdown-style summary for presentation ---
-from IPython.display import Markdown
+
 
 Markdown(f"""
 ## 📝 Executive Summary
