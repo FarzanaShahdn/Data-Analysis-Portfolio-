@@ -62,22 +62,16 @@ This project analyzes the **Customer Personality dataset** to uncover insights o
 
 Goal: Show how **data analytics drives smarter marketing decisions**.
 
----
-
 **📈 Key Insights**
 - 🍷 **Wines & Meat** → ~78% of revenue (focus categories).  
 - 👥 **Champions** = highest-value customers (loyal & profitable).  
 - 🎯 Campaigns **3/4/5** outperform Campaign 2 (better ROI).  
 - 🔗 **Purchases** drive spending more than income (frequency > wealth).  
 
----
-
 ** 🛠️ Tools Used**
 - Python (Google Colab)  
 - Pandas / NumPy (data cleaning)  
 - Seaborn / Matplotlib (visuals)  
-
----
 
 ** 📑 Deliverables**
 - 📄 [Full Report (PDF)](./report.pdf)  
