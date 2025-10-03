@@ -43,7 +43,7 @@ In this section I will list data analytics briefly describing the technology sta
 - A slight drop was observed post-2023, likely due to the **Covid-19 pandemic**
 
 **Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib),Google Colabs.
-
+---
 ### 📊 Customer Personality & Marketing Campaign Analysis
 
  **Turning Customer Data into Business Strategy**
@@ -51,7 +51,7 @@ In this section I will list data analytics briefly describing the technology sta
 **Code:** [Customer_Personality_Analysis.ipynb---]([
 ][(https://github.com/FarzanaShahdn/Data-Analysis-Portfolio-/blob/main/Customer_Personality_Analysis_Data_Driven_Strategies_for_Marketing_Optimization_and_Revenue_Growth%20(2).ipynb)]
 
-# 🚀 Project Summary
+** 🚀 Project Summary**
 This project analyzes the **Customer Personality dataset** to uncover insights on:
 - 👥 **Customer Segmentation**
 - 🍷 **Product Performance**
@@ -62,7 +62,7 @@ Goal: Show how **data analytics drives smarter marketing decisions**.
 
 ---
 
-# 📈 Key Insights
+**📈 Key Insights**
 - 🍷 **Wines & Meat** → ~78% of revenue (focus categories).  
 - 👥 **Champions** = highest-value customers (loyal & profitable).  
 - 🎯 Campaigns **3/4/5** outperform Campaign 2 (better ROI).  
@@ -70,14 +70,14 @@ Goal: Show how **data analytics drives smarter marketing decisions**.
 
 ---
 
-# 🛠️ Tools Used
+** 🛠️ Tools Used**
 - Python (Google Colab)  
 - Pandas / NumPy (data cleaning)  
 - Seaborn / Matplotlib (visuals)  
 
 ---
 
-# 📑 Deliverables
+** 📑 Deliverables**
 - 📄 [Full Report (PDF)](./report.pdf)  
 - 💻 [Colab Notebook](./notebook.ipynb)  
 - 📊 [Key Metrics CSV](./analysis_summary.csv)  
