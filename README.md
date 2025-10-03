@@ -67,11 +67,9 @@ In this section I will list data analytics briefly describing the technology sta
 
 **Tools Used:** (Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy),Google Colabs.
 
+##Comprehensive Analysis Summary & Recommendation
 
-## 📈 COMPREHENSIVE ANALYSIS SUMMARY & RECOMMENDATION
-
-
-## 📝 Executive Summary
+##Executive Summary
 
 - 🍷 **Product Dominance**: Wine & Meat drive **77.8%** of total revenue → prioritize promotions.  
 - 👥 **Customer Segments**: Champions are the most profitable group; loyalty & exclusivity programs recommended.  
@@ -79,7 +77,7 @@ In this section I will list data analytics briefly describing the technology sta
 - 💡 **Revenue Drivers**: Strong correlation between **Income & Spending**, and between **Purchases & Total Revenue**.  
 - 🎯 **Response Patterns**: Responders tend to be **established, higher-spending customers**.  
 
-## 🚀 Strategic Recommendations
+## Strategic Recommendations
 
 1. **Product Focus**  
    - Allocate ~70% marketing budget to Wine & Meat.  
@@ -96,7 +94,7 @@ In this section I will list data analytics briefly describing the technology sta
    - Reallocate budget: Cmp3/4/5 (70%), Cmp1 (25%), Cmp2 (5%).  
    - Apply **A/B testing** to validate future campaigns.  
 
-## 💰 Expected Business Impact
+##Expected Business Impact
 
 - **Short-term (3-6 months):** 15–20% uplift in campaign ROI  
 - **Medium-term (6-12 months):** 25–30% increase in customer lifetime value  
