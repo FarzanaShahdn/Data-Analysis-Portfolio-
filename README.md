@@ -72,19 +72,7 @@ In this section I will list data analytics briefly describing the technology sta
 # 📈 COMPREHENSIVE ANALYSIS SUMMARY & RECOMMENDATIONS
 # ===============================================
 
-print("🎯 COMPREHENSIVE ANALYSIS SUMMARY & STRATEGIC RECOMMENDATIONS")
 
-
-print("\n📊 EXECUTIVE DASHBOARD:")
-print(f"• Total Revenue Analyzed: ${total_revenue:,.0f}")
-print(f"• Average Revenue per Customer: ${avg_revenue_per_customer:.2f}")
-print(f"• Overall Campaign Response Rate: {response_rate:.1f}%")
-print(f"• Champion Segment Size: {champion_segment_size:.1f}% of customers")
-print(f"• Wine Category Contribution: {product_percent['MntWines']:.1f}% of total revenue")
-
-
-
-Markdown(f"""
 ## 📝 Executive Summary
 
 - 🍷 **Product Dominance**: Wine & Meat drive **77.8%** of total revenue → prioritize promotions.  
