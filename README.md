@@ -79,10 +79,12 @@ Goal: Show how **data analytics drives smarter marketing decisions**.
 - 📊 [Key Metrics CSV](./analysis_summary.csv)  
 
 ---
+
 ## 📬 Contact
 **Farzana Binti Shahdon**  
 [farzana.shahdn@gmail.com](mailto:farzana.shahdn@gmail.com)  
 [LinkedIn: farzana-shahdn]([www.linkedin.com/in/farzana-shahdn](https://www.linkedin.com/in/farzana-shahdn/))
+
 ---
 
 > _Thank you for viewing my project! Feedback and collaboration are welcome._
