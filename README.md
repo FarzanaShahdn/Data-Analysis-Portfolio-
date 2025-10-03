@@ -46,7 +46,9 @@ In this section I will list data analytics briefly describing the technology sta
 
 ### Customer Personality Analysis:Data-Driven Strategies for Marketing Optimization and Revenue Growth
 
-**Code:** [Customer_Personality_Analysis.ipynb---](
+**Code:** [Customer_Personality_Analysis.ipynb---]([
+][(https://github.com/FarzanaShahdn/Data-Analysis-Portfolio-/blob/main/Customer_Personality_Analysis_Data_Driven_Strategies_for_Marketing_Optimization_and_Revenue_Growth%20(2).ipynb)]
+
 **Project Overview** :This project analyzes customer data from a marketing campaign to uncover key insights about customer behavior, product revenue, and the effectiveness of marketing campaigns. The goal is to turn data into actionable recommendations that drive business results.
 
 **Goal** :To analyze marketing campaign data, identify the most profitable products and customer segments, evaluate marketing campaign effectiveness, and recommend strategies for maximizing sales and campaign impact.
