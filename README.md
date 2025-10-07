@@ -78,17 +78,17 @@ Goal: Show how **data analytics drives smarter marketing decisions**.
 - Seaborn / Matplotlib (visuals)  
 
 ---
-# 📊 Superstore Sales & Profit Dashboard  
+### 📊 Superstore Sales & Profit Dashboard  
 **Tool:** Tableau  
 **Dataset:** Sample Superstore  
 **Author:** Farzana Binti Shahdon  
 **Date:** October 2025  
 
-## 🎯 Project Overview  
+**🎯 Project Overview** 
 This Tableau project analyzes *Superstore* sales, profit, and customer performance across products, regions, and time.  
 It highlights key business insights through interactive, data-driven dashboards for executive reporting and decision-making.  
 
-## 📈 Dashboards Included  
+**📈 Dashboards Included**  
 1️⃣  **Sales Performance** –  KPIs for Total Sales, Profit, Orders, and Profit Margin %   by region, month, and category  
 2️⃣ **Product Portfolio** – Profitability by category and sub-category  
 3️⃣ **Customer Insights** – Customer segmentation and top 10 buyers  
@@ -96,22 +96,22 @@ It highlights key business insights through interactive, data-driven dashboards 
 5️⃣ **Shipping & Operations** – Impact of ship mode and discount on profit  
 6️⃣ **Time Intelligence** – Year-over-year and monthly growth trends   
 
-## 🔍 Key Insights  
+**🔍 Key Insights**
 - **High Sales ≠ High Profit** — large discounts and costly shipping reduce margins.  
 - **Furniture** drives revenue but yields lower profits than **Technology**.  
 - **West Region** leads in total sales; **South Region** struggles with profitability.  
 - **Loyal repeat customers** contribute most to sustained revenue growth.  
 - **Discounts > 30 %** correlate with a drop in profit margin.  
 
-## 🧠 Tools & Techniques  
+**🧠 Tools & Techniques** 
 - **Tableau Public** – Dashboard design & visual storytelling  
 - **Excel / Python** – Data cleaning and preprocessing  
 - **Business Intelligence Concepts** – KPI tracking, segmentation, trend analysis  
 
-## 🌐 View the Interactive Dashboard  
-👉 [View on Tableau Public]([https://public.tableau.com/views/YourProjectName/ExecutiveOverview](https://public.tableau.com/app/profile/farzana.binti.shahdon/viz/SUPERSTOREPERFORMANCEDASHBOARDS/SALEPERFORMANCE))  
+**🌐 View the Interactive Dashboard**  
+👉 [View on Tableau Public([https://public.tableau.com/views/YourProjectName/ExecutiveOverview](https://public.tableau.com/app/profile/farzana.binti.shahdon/viz/SUPERSTOREPERFORMANCEDASHBOARDS/SALEPERFORMANCE))  
 
-## 🏷 Tags  
+**🏷 Tags**  
 `#Tableau`  `#DataVisualization`  `#BusinessIntelligence`  `#AnalyticsPortfolio`  `#Superstore`
 
 ---
