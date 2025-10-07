@@ -12,7 +12,9 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Phyton]
     - [Netflix Movies & TV Shows Data Analysis](#netflix-movies-&-tv-shows-data-analysis)
     - [Customer Personality Analysis](#customer-personality-analysis)
-    - [Superstore Sales & Profit Dashboard](#superstore-sales-&-profit-dashboard)
+
+  - [Tableau]
+       - [Superstore Sales & Profit Dashboard](#superstore-sales-&-profit-dashboard)
 
 - [Contact](#contact)
 
