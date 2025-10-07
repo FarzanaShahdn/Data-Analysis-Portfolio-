@@ -12,6 +12,8 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Phyton]
     - [Netflix Movies & TV Shows Data Analysis](#netflix-movies-&-tv-shows-data-analysis)
     - [Customer Personality Analysis](#customer-personality-analysis)
+    - [Superstore Sales & Profit Dashboard](#superstore-sales-&-profit-dashboard)
+
 - [Contact](#contact)
 
 ## Portfolio Projects
@@ -73,11 +75,6 @@ Goal: Show how **data analytics drives smarter marketing decisions**.
 - Pandas / NumPy (data cleaning)  
 - Seaborn / Matplotlib (visuals)  
 
-** 📑 Deliverables**
-- 📄 [Full Report (PDF)](./report.pdf)  
-- 💻 [Colab Notebook](./notebook.ipynb)  
-- 📊 [Key Metrics CSV](./analysis_summary.csv)  
-
 ---
 # 📊 Superstore Sales & Profit Dashboard  
 **Tool:** Tableau  
@@ -85,13 +82,9 @@ Goal: Show how **data analytics drives smarter marketing decisions**.
 **Author:** Farzana Binti Shahdon  
 **Date:** October 2025  
 
----
-
 ## 🎯 Project Overview  
 This Tableau project analyzes *Superstore* sales, profit, and customer performance across products, regions, and time.  
 It highlights key business insights through interactive, data-driven dashboards for executive reporting and decision-making.  
-
----
 
 ## 📈 Dashboards Included  
 1️⃣  **Sales Performance** –  KPIs for Total Sales, Profit, Orders, and Profit Margin %   by region, month, and category  
@@ -101,8 +94,6 @@ It highlights key business insights through interactive, data-driven dashboards 
 5️⃣ **Shipping & Operations** – Impact of ship mode and discount on profit  
 6️⃣ **Time Intelligence** – Year-over-year and monthly growth trends   
 
----
-
 ## 🔍 Key Insights  
 - **High Sales ≠ High Profit** — large discounts and costly shipping reduce margins.  
 - **Furniture** drives revenue but yields lower profits than **Technology**.  
@@ -110,38 +101,18 @@ It highlights key business insights through interactive, data-driven dashboards 
 - **Loyal repeat customers** contribute most to sustained revenue growth.  
 - **Discounts > 30 %** correlate with a drop in profit margin.  
 
----
-
 ## 🧠 Tools & Techniques  
 - **Tableau Public** – Dashboard design & visual storytelling  
 - **Excel / Python** – Data cleaning and preprocessing  
 - **Business Intelligence Concepts** – KPI tracking, segmentation, trend analysis  
 
----
-
 ## 🌐 View the Interactive Dashboard  
 👉 [View on Tableau Public]([https://public.tableau.com/views/YourProjectName/ExecutiveOverview](https://public.tableau.com/app/profile/farzana.binti.shahdon/viz/SUPERSTOREPERFORMANCEDASHBOARDS/SALEPERFORMANCE))  
 
----
-
-## 🖼️ Dashboard Preview  
-*(Optional – add a screenshot to your repo)*  
-![Dashboard Preview](dashboard_screenshot.png)  
-
----
-
-## 📁 Repository Contents  
-| File | Description |
-|------|--------------|
-| `Superstore_Analysis.twbx` | Tableau workbook with all dashboards |
-| `Superstore_Data.xlsx` | Source dataset (if allowed) |
-| `dashboard_screenshot.png` | Thumbnail preview |
-| `README.md` | Project documentation |
-
----
-
 ## 🏷 Tags  
 `#Tableau`  `#DataVisualization`  `#BusinessIntelligence`  `#AnalyticsPortfolio`  `#Superstore`
+
+---
 ## 📬 Contact
 **Farzana Binti Shahdon**  
 [farzana.shahdn@gmail.com](mailto:farzana.shahdn@gmail.com)  
